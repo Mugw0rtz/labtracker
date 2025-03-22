@@ -1,0 +1,25 @@
+[2025-03-22 06:58:51] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 06:59:13] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin@example.com
+[2025-03-22 06:59:25] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin@example.com
+[2025-03-22 06:59:32] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin@example.com
+[2025-03-22 07:00:56] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:01:10] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: user
+[2025-03-22 07:01:18] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: user
+[2025-03-22 07:01:41] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:03:45] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:03:45] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:04:13] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:09:14] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:09:34] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:11:49] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:12:13] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:12:24] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:12:29] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:13:22] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:13:32] [WARNING] [User: guest] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:14:28] [INFO] [User: 0] [IP: ::1] Admin logged in successfully Context: Username: admin
+[2025-03-22 07:15:24] [INFO] [User: 0] [IP: ::1] Admin logged in successfully Context: Username: admin
+[2025-03-22 07:15:54] [INFO] [User: 0] [IP: ::1] Admin logged in successfully Context: Username: admin
+[2025-03-22 07:24:45] [WARNING] [User: 0] [IP: ::1] Failed login attempt Context: Username: admin
+[2025-03-22 07:24:59] [WARNING] [User: 0] [IP: ::1] Failed login attempt Context: Username: user
+[2025-03-22 07:25:28] [WARNING] [User: 0] [IP: ::1] Failed login attempt Context: Username: user
